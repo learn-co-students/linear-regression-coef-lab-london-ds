@@ -9,7 +9,7 @@ Future versions of this should include the entire process and why people choose 
 By the end of this lesson, students should be able to...
 
 * [ ] Interpret a `corr()` plot for multi collinearity 
-* [ ] Transform continuous variables with `Standard Scaler`
+* [ ] Transform continuous variables 
 * [ ] Talk about advantages/disadvantages of standardised/unstandardised betas
 
 
